@@ -7,5 +7,5 @@ dynamic websites. Students will write a full-scale web application as their fina
 project.
 
 - [Coastal Carolina University](https://coastal.edu)
-- This is bullet number two
-- This is bullet number three
+- This is the bullet number two
+- This is the bullet number three
